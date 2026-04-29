@@ -1,5 +1,5 @@
 // Configure a URL do seu backend aqui
-const API_URL = "https://noticias-backend-q0to.onrender.com";
+const API_URL = "https://noticias-backend-5ded.onrender.com";
 
 async function carregarNoticias() {
   const container = document.getElementById("noticias");
